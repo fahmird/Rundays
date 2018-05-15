@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rundays</string>
+    <string name="action_settings">Settings</string>
+
+<string name="buat_event">Buat Event</string>
+<string name="setting">Setting</string>
+<string name="filter">Select Province</string>
+</resources>
